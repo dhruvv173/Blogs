@@ -1,5 +1,4 @@
-
-# Screenshots
+# App Screenshots
 ![image](https://user-images.githubusercontent.com/79097544/227864739-13835f2f-be3f-46d3-aa2d-b63465bdbed7.png)
 ![image](https://user-images.githubusercontent.com/79097544/227864778-ab523185-fe29-47e2-8f2c-df7c5bf9c704.png)
 
